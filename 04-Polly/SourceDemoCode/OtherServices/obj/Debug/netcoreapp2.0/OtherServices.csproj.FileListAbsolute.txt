@@ -1,0 +1,14 @@
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\bin\Debug\netcoreapp2.0\OtherServices.deps.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\bin\Debug\netcoreapp2.0\OtherServices.runtimeconfig.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\bin\Debug\netcoreapp2.0\OtherServices.runtimeconfig.dev.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\bin\Debug\netcoreapp2.0\OtherServices.dll
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\bin\Debug\netcoreapp2.0\OtherServices.pdb
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\obj\Debug\netcoreapp2.0\OtherServices.csproj.AssemblyReference.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\obj\Debug\netcoreapp2.0\OtherServices.AssemblyInfoInputs.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\obj\Debug\netcoreapp2.0\OtherServices.AssemblyInfo.cs
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\obj\Debug\netcoreapp2.0\OtherServices.csproj.CoreCompileInputs.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\obj\Debug\netcoreapp2.0\OtherServices.dll
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\obj\Debug\netcoreapp2.0\OtherServices.pdb
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\OtherServices\obj\Debug\netcoreapp2.0\OtherServices.genruntimeconfig.cache

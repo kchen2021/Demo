@@ -1,0 +1,18 @@
+﻿过滤器Filter（action级）
+https://www.cnblogs.com/viter/p/10107886.html
+
+授权过滤器 AuthorizeAttribute	该过滤器只有执行之前（befor），没有执行之后（after）的方法
+资源过滤器 IResourceFilter
+异常过滤器 IExceptionFilter
+操作过滤器 ActionFilterAttribute
+结果过滤器 IResultFilter
+
+
+
+
+
+
+
+
+
+

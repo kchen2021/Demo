@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogDemo", "LogDemo\LogDemo.csproj", "{29AA9862-7BBA-420C-98A9-7AD85A746C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogDemo", "NLogDemo\NLogDemo.csproj", "{4F3CC922-8B2F-4CA9-BBCC-01B1ABC36EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29AA9862-7BBA-420C-98A9-7AD85A746C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AA9862-7BBA-420C-98A9-7AD85A746C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AA9862-7BBA-420C-98A9-7AD85A746C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AA9862-7BBA-420C-98A9-7AD85A746C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3CC922-8B2F-4CA9-BBCC-01B1ABC36EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3CC922-8B2F-4CA9-BBCC-01B1ABC36EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3CC922-8B2F-4CA9-BBCC-01B1ABC36EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3CC922-8B2F-4CA9-BBCC-01B1ABC36EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB457A9F-F678-4D6B-A295-49036E0C9576}
+	EndGlobalSection
+EndGlobal

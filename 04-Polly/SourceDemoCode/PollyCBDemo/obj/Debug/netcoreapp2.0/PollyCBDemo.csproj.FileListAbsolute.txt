@@ -1,0 +1,12 @@
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\bin\Debug\netcoreapp2.0\PollyCBDemo.deps.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\bin\Debug\netcoreapp2.0\PollyCBDemo.runtimeconfig.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\bin\Debug\netcoreapp2.0\PollyCBDemo.runtimeconfig.dev.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\bin\Debug\netcoreapp2.0\PollyCBDemo.dll
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\bin\Debug\netcoreapp2.0\PollyCBDemo.pdb
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\obj\Debug\netcoreapp2.0\PollyCBDemo.csproj.AssemblyReference.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\obj\Debug\netcoreapp2.0\PollyCBDemo.AssemblyInfoInputs.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\obj\Debug\netcoreapp2.0\PollyCBDemo.AssemblyInfo.cs
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\obj\Debug\netcoreapp2.0\PollyCBDemo.csproj.CoreCompileInputs.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\obj\Debug\netcoreapp2.0\PollyCBDemo.dll
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\obj\Debug\netcoreapp2.0\PollyCBDemo.pdb
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\SourceDemoCode\PollyCBDemo\obj\Debug\netcoreapp2.0\PollyCBDemo.genruntimeconfig.cache

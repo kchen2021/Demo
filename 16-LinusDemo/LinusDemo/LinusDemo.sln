@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinusDemo", "LinusDemo\LinusDemo.csproj", "{CD57E4A3-B944-4A70-8786-E18275155AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD57E4A3-B944-4A70-8786-E18275155AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD57E4A3-B944-4A70-8786-E18275155AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD57E4A3-B944-4A70-8786-E18275155AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD57E4A3-B944-4A70-8786-E18275155AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A73501B1-A0BE-4089-833A-DDD5374AC1DD}
+	EndGlobalSection
+EndGlobal

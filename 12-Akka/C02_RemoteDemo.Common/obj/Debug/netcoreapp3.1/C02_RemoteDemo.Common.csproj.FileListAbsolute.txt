@@ -1,0 +1,8 @@
+C:\Application\Personal\Gitee\_Study\05-Practice\12-Akka\C02_RemoteDemo.Common\bin\Debug\netcoreapp3.1\C02_RemoteDemo.Common.deps.json
+C:\Application\Personal\Gitee\_Study\05-Practice\12-Akka\C02_RemoteDemo.Common\bin\Debug\netcoreapp3.1\C02_RemoteDemo.Common.dll
+C:\Application\Personal\Gitee\_Study\05-Practice\12-Akka\C02_RemoteDemo.Common\bin\Debug\netcoreapp3.1\C02_RemoteDemo.Common.pdb
+C:\Application\Personal\Gitee\_Study\05-Practice\12-Akka\C02_RemoteDemo.Common\obj\Debug\netcoreapp3.1\C02_RemoteDemo.Common.AssemblyInfoInputs.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\12-Akka\C02_RemoteDemo.Common\obj\Debug\netcoreapp3.1\C02_RemoteDemo.Common.AssemblyInfo.cs
+C:\Application\Personal\Gitee\_Study\05-Practice\12-Akka\C02_RemoteDemo.Common\obj\Debug\netcoreapp3.1\C02_RemoteDemo.Common.csproj.CoreCompileInputs.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\12-Akka\C02_RemoteDemo.Common\obj\Debug\netcoreapp3.1\C02_RemoteDemo.Common.dll
+C:\Application\Personal\Gitee\_Study\05-Practice\12-Akka\C02_RemoteDemo.Common\obj\Debug\netcoreapp3.1\C02_RemoteDemo.Common.pdb

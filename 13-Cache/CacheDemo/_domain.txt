@@ -1,0 +1,11 @@
+﻿https://www.cnblogs.com/viter/p/10146312.html
+https://www.cnblogs.com/viter/p/10161581.html
+
+https://www.cnblogs.com/kellynic/p/9803314.html
+
+
+https://github.com/2881099/csredis
+
+
+
+dotnet sql-cache create "Server=.\SQLEXPRESS;User=sa;Password=123456;Database=TestDb" dbo AspNetCoreCache

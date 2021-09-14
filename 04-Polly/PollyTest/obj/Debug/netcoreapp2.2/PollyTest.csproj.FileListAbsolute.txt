@@ -1,0 +1,12 @@
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\bin\Debug\netcoreapp2.2\PollyTest.deps.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\bin\Debug\netcoreapp2.2\PollyTest.runtimeconfig.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\bin\Debug\netcoreapp2.2\PollyTest.runtimeconfig.dev.json
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\bin\Debug\netcoreapp2.2\PollyTest.dll
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\bin\Debug\netcoreapp2.2\PollyTest.pdb
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\obj\Debug\netcoreapp2.2\PollyTest.csproj.AssemblyReference.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\obj\Debug\netcoreapp2.2\PollyTest.AssemblyInfoInputs.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\obj\Debug\netcoreapp2.2\PollyTest.AssemblyInfo.cs
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\obj\Debug\netcoreapp2.2\PollyTest.csproj.CoreCompileInputs.cache
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\obj\Debug\netcoreapp2.2\PollyTest.dll
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\obj\Debug\netcoreapp2.2\PollyTest.pdb
+C:\Application\Personal\Gitee\_Study\05-Practice\04-Polly\PollyTest\obj\Debug\netcoreapp2.2\PollyTest.genruntimeconfig.cache

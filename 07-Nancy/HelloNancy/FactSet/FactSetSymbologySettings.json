@@ -1,0 +1,359 @@
+﻿{
+  "SixToFactSetSymbologyConversionPatterns": {
+    "CHIX": [
+      {
+        "Pattern": "a$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".AMS"
+      },
+      {
+        "Pattern": "b$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".BRU"
+      },
+      {
+        "Pattern": "c$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".CSE"
+      },
+      {
+        "Pattern": "i$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".DUB"
+      },
+      {
+        "Pattern": "d$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".ETR"
+      },
+      {
+        "Pattern": "h$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".HEL"
+      },
+      {
+        "Pattern": "u$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".LIS"
+      },
+      {
+        "Pattern": "l$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".LON"
+      },
+      {
+        "Pattern": "e$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".MCE"
+      },
+      {
+        "Pattern": "m$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".MIL"
+      },
+      {
+        "Pattern": "s$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".OME"
+      },
+      {
+        "Pattern": "o$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".OSL"
+      },
+      {
+        "Pattern": "p$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".PAR"
+      },
+      {
+        "Pattern": "z$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".SWX"
+      },
+      {
+        "Pattern": "v$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".WBO"
+      }
+    ],
+    "XTSE": [
+      {
+        "Pattern": "\\.UN$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".UT"
+      },
+      {
+        "Pattern": "\\.U$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".USD"
+      },
+      {
+        "Pattern": "PR\\.(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "PR{0}"
+      },
+      {
+        "Pattern": "PF\\.(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "PF{0}"
+      }
+    ],
+    "XATS": [
+      {
+        "Pattern": "\\.UN$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".UT"
+      },
+      {
+        "Pattern": "\\.U$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".USD"
+      },
+      {
+        "Pattern": "PR\\.(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "PR{0}"
+      },
+      {
+        "Pattern": "PF\\.(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "PF{0}"
+      }
+    ],
+    "XTSX": [
+      {
+        "Pattern": "\\.U$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ".USD"
+      },
+      {
+        "Pattern": "PR\\.(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "PR{0}"
+      }
+    ],
+    "FNFI": [
+      {
+        "Pattern": "\\s",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": "."
+      }
+    ],
+    "FNSE": [
+      {
+        "Pattern": "\\s",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": "."
+      },
+      {
+        "Pattern": "([a-z]){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": ".{0U}"
+      }
+    ],
+    "XCSE": [
+      {
+        "Pattern": "\\s",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": "."
+      }
+    ],
+    "XFND": [
+      {
+        "Pattern": "\\s",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": "."
+      }
+    ],
+    "XMEX": [
+      {
+        "Pattern": "\\-(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": ".{0}"
+      }
+    ],
+    "XNSE": [
+      {
+        "Pattern": "\\-",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": "."
+      },
+      {
+        "Pattern": "^P1(\\w+)",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "{0}.P1"
+      },
+      {
+        "Pattern": "^P2(\\w+)",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "{0}.P2"
+      },
+      {
+        "Pattern": "^EQ",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ""
+      }
+    ],
+    "XOAS": [
+      {
+        "Pattern": "\\s",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": "."
+      }
+    ],
+    "XOSL": [
+      {
+        "Pattern": "\\s",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": "."
+      }
+    ],
+    "XSGO": [
+      {
+        "Pattern": "SM\\-CHILE\\s(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "SMCHILE.{0}"
+      },
+      {
+        "Pattern": "SUD\\sAMER\\-(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "SUDAMER.{0}"
+      },
+      {
+        "Pattern": "\\s",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ""
+      },
+      {
+        "Pattern": "\\-(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": ".{0}"
+      }
+    ],
+    "XSWX": [
+      {
+        "Pattern": "\\s(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": "{0}"
+      },
+      {
+        "Pattern": "\\-(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": ".{0}"
+      }
+    ],
+    "XTAE": [
+      {
+        "Pattern": "\\-(\\w){1}$",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": ".{0}"
+      }
+    ],
+    "XSTO": [
+      {
+        "Pattern": "\\s([A-Z]{1}[a-z]+)",
+        "PlaceHolderReplacement": true,
+        "ReplacementString": ".{0U}"
+      },
+      {
+        "Pattern": "\\s",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": "."
+      }
+    ],
+    "XCNQ": [
+      {
+        "Pattern": "WT\\.A$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": "WTA"
+      }
+    ],
+    "XLON": [
+      {
+        "Pattern": "\\.$",
+        "PlaceHolderReplacement": false,
+        "ReplacementString": ""
+      }
+    ]
+  },
+  "SixToFactSetMicMapping": {
+    "FNFI": "XHEL",
+    "FNSE": "XOME",
+    "ISEC": "XICE",
+    "XFND": "XCSE",
+    "XOAS": "XOSL",
+    "XTNX": "XTSX",
+    "XVTX": "XSWX",
+    "_TRADECHO": "LOTC"
+  },
+  "XigniteGlobalMics": [
+    "XAMS",
+    "XASX",
+    "XATH",
+    "XBAR",
+    "XBER",
+    "XBIL",
+    "XBRN",
+    "XBRU",
+    "BVMF",
+    "XCNQ",
+    "XCSE",
+    "XDUB",
+    "XDUS",
+    "XENX",
+    "XETR",
+    "XFRA",
+    "_FTSE",
+    "XHAM",
+    "XHAN",
+    "XHEL",
+    "_HKGI",
+    "XICE",
+    "XJSE",
+    "XLIS",
+    "XLIT",
+    "XLON",
+    "XMAD",
+    "XMCE",
+    "XMEX",
+    "MTAA",
+    "XMSX",
+    "XMUN",
+    "XMUS",
+    "XNSE",
+    "XNZE",
+    "XSTO",
+    "XOSL",
+    "XPAR",
+    "XPRA",
+    "XRIS",
+    "XSAT",
+    "XSEC",
+    "XSES",
+    "XSGO",
+    "XSHE",
+    "XSHG",
+    "XSTU",
+    "XSWX",
+    "XTAE",
+    "XTAL",
+    "XTSE",
+    "XTSX",
+    "XVAL",
+    "NEOE",
+    "NEOL",
+    "NEOD",
+    "NOTC",
+    "CHIX",
+    "IOTC",
+    "LOTC",
+    "FNFI",
+    "FNSE",
+    "XFND",
+    "XVTX",
+    "XTNX",
+    "_TRADECHO",
+    "XOAS"
+  ]
+}

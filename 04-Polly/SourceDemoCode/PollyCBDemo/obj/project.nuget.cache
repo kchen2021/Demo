@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hor1dB+zja3Ea257jreyDDTeZREyEwlJUpTPjmnhaaLOFX0gYFA5kOGUuDkBwHlRwxBNrVnbYiWJfKkrXCo6Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Application\\Personal\\Gitee\\_Study\\05-Practice\\04-Polly\\SourceDemoCode\\PollyCBDemo\\PollyCBDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XIGNITE-KCHEN\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\XIGNITE-KCHEN\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\XIGNITE-KCHEN\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\XIGNITE-KCHEN\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\XIGNITE-KCHEN\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\XIGNITE-KCHEN\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\XIGNITE-KCHEN\\.nuget\\packages\\polly\\6.0.1\\polly.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerWebapi</name>
+    </assembly>
+    <members>
+        <member name="T:SwaggerWebapi.Controllers.Temps.V1.ValuesV1Controller">
+            <summary>
+            ValuesController
+            </summary>
+        </member>
+        <member name="M:SwaggerWebapi.Controllers.Temps.V1.ValuesV1Controller.V1Get(System.Int32,System.Int32)">
+             <summary>
+             GET api/values
+             </summary>
+            <remarks>
+            eg:
+                 Get:api/value/1
+             </remarks>
+             <param name="sign">sign</param>
+             <param name="timestamp">timestamp</param>
+             <returns></returns>
+        </member>
+        <member name="M:SwaggerWebapi.Controllers.Temps.V1.ValuesV1Controller.V1Post(System.Int32)">
+             <summary>
+             postPost
+             </summary>
+            <remarks>
+            eg:
+                 Get:api/value/1
+             </remarks>
+             <param name="sign">sign</param>
+             <param name="timestamp">timestamp</param>
+             <returns></returns>
+        </member>
+        <member name="T:SwaggerWebapi.Controllers.Temps.V2.ValuesV2Controller">
+            <summary>
+            ValuesController
+            </summary>
+        </member>
+        <member name="M:SwaggerWebapi.Controllers.Temps.V2.ValuesV2Controller.V2Get(System.Int32,System.Int32)">
+             <summary>
+             GET api/values
+             </summary>
+            <remarks>
+            eg:
+                 Get:api/value/1
+             </remarks>
+             <param name="sign">sign</param>
+             <param name="timestamp">timestamp</param>
+             <returns></returns>
+        </member>
+        <member name="M:SwaggerWebapi.Controllers.Temps.V2.ValuesV2Controller.V2Post(System.Int32)">
+             <summary>
+             postPost
+             </summary>
+            <remarks>
+            eg:
+                 Get:api/value/1
+             </remarks>
+             <param name="sign">sign</param>
+             <param name="timestamp">timestamp</param>
+             <returns></returns>
+        </member>
+        <member name="T:SwaggerWebapi.Filters.RemoveVersionParametersFilter">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:SwaggerWebapi.Filters.SetVersionInPathsFilter">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:SwaggerWebapi.Models.UseInfo">
+            <summary>
+            use
+            </summary>
+        </member>
+        <member name="P:SwaggerWebapi.Models.UseInfo.Id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:SwaggerWebapi.Models.UseInfo.Name">
+            <summary>
+            name
+            </summary>
+        </member>
+        <member name="P:SwaggerWebapi.Models.UseInfo.Age">
+            <summary>
+            age
+            </summary>
+        </member>
+        <member name="P:SwaggerWebapi.Models.UseInfo.Sign">
+            <summary>
+            sign
+            </summary>
+        </member>
+    </members>
+</doc>
